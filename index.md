@@ -8,4 +8,4 @@ This is an ongoing project to centralize, standardize, and explore publicly avai
 
 ### Map of Nuclear Tests
 
-<a href = "maps/nuclear_test.html"> Nuclear Tests, 1945-2017
+<a href = "maps/nuclear_tests.html"> Nuclear Tests, 1945-2017
